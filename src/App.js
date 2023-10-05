@@ -8,7 +8,7 @@ function App() {
   const onsubmit=(event) => {
     event.preventDefault()
     if(todo == ""){
-      alert("Please type something to add")
+      alert("Please type something to add in the list.")
     }
    
     
